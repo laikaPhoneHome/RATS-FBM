@@ -1,8 +1,17 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: row;
 }
-.input-map{
-  height: 100px;
-  width:400px;
+/* .input-map{
+  
+} */
+.leaflet-container{
+  width: 45%;
+  height: 40%;
+  float: right;
+  right: 2%;
+  margin: 2%;
   border: solid red;
+  overflow: hidden;
 }

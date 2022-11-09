@@ -1,8 +1,8 @@
 export const PostInfo = ({postCode, data, area}) => {
-    // return (
-    //     <section>
-    //         <h2>{area}</h2>
-    //         <h4>{data}</h4>
-    //     </section>
-    // )
+    return (
+        <section>
+            <h2>Manchester</h2>
+            <h4>M15</h4>
+        </section>
+    )
 }
