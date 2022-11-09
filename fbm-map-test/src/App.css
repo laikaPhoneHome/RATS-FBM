@@ -6,12 +6,10 @@
 /* .input-map{
   
 } */
-.leaflet-container{
+.leaflet-container {
   width: 45%;
-  height: 40%;
+  height: 50vh;
   float: right;
   right: 2%;
   margin: 2%;
-  border: solid red;
-  overflow: hidden;
 }
